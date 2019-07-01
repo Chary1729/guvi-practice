@@ -1,6 +1,6 @@
 my_string=input()
 try:
   s =int(my_string)
-  print("no")
+  print("No")
 except:
-  print("yes")  
+  print("Yes")  
